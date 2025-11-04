@@ -20,7 +20,7 @@ namespace ProjetoCadastroJogadoresTenisDeMesaPR2
             {
                 MessageBox.Show("ERRO! Um dos campos ou ambos não estao preenchidos! Note que ambos tem que estar com informações para efetuar o login!");
             }
-            else
+            else //Se tiver tudo deboa ele segue em frente
             {
                 nomeusuario = usuariobox.Text;
                 senhausuario = senhabox.Text;
