@@ -1,5 +1,5 @@
 # JogadoresDeTenisDeMesa-PR2
-Programa de trabalho para PR2 IFSPCJO 2025 4°BIMESTRE
+Programa de trabalho para PR2 IFSPCJO 2025 3° E 4°BIMESTRE
 Feito no Visual Studio 2022 em C# Windows Forms
 
 
@@ -9,6 +9,7 @@ Consiste em(FUNÇÕES DO PROGRAMA):
 -Conseguir cadastrar jogadores existentes no mundo ou um personalizado por você mesmo
 -Visualizar TODOS os jogadores cadastrados
 -Deletar e editar APENAS OS SEUS jogadores cadastrados
+
 
 
 CARACTERISTICAS DISPONÍVEIS DO JOGADOR PARA SELECIONAR(na hora de cadastrar):
