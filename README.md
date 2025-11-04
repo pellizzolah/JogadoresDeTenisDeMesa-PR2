@@ -1,5 +1,8 @@
 # JogadoresDeTenisDeMesa-PR2
-Programa de trabalho para PR2 IFSPCJO 2025 4°BIMESTRE (CADASTRAR JOGADORES DE TÊNIS DE MESA)
+Programa de trabalho para PR2 IFSPCJO 2025 4°BIMESTRE
+Feito no Visual Studio 2022 em C# Windows Forms
+
+
 
 Consiste em(FUNÇÕES DO PROGRAMA):
 -Fazer login na sua conta conectada ao banco de dados
