@@ -1,5 +1,5 @@
 # JogadoresDeTenisDeMesa-PR2
-Programa de trabalho para PR2 IFSPCJO 2025 4°BIMESTRE
+Programa de trabalho para PR2 IFSPCJO 2025 4°BIMESTRE (CADASTRAR JOGADORES DE TÊNIS DE MESA)
 
 Consiste em(FUNÇÕES DO PROGRAMA):
 -Fazer login na sua conta conectada ao banco de dados
@@ -9,10 +9,13 @@ Consiste em(FUNÇÕES DO PROGRAMA):
 
 
 CARACTERISTICAS DISPONÍVEIS DO JOGADOR PARA SELECIONAR(na hora de cadastrar):
--Nome
--Gênero(Masculino, Feminino)
--Idade(13 a 50)
+-Foto do jogador(há 8 fotos de jogadores aleátorios para escolher já embutido no programa)
+-Nome do jogador
+-Gênero(Masculino ou Feminino)
+-Idade(de 8 a 60 anos)
 -Nacionalidade
 -Mão dominante(esquerda ou direita)
--Ponto forte do jogador(Atacar e Estrategias, Defender e Resistência física, Todos)
-
+-Ponto forte do jogador(Estrategias, Resistência física, Agilidade, Movimentação de pernas)
+-Estilo de jogo(Atacante, Defensivo)
+-Nível do jogador(Iniciante, Amador, Profissional)
+-Pontos do jogador no ranking mundial(0 a 5000) 
