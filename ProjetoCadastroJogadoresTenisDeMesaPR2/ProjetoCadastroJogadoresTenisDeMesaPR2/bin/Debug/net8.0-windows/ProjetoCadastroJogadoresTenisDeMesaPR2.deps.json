@@ -9,6 +9,11 @@
       "ProjetoCadastroJogadoresTenisDeMesaPR2/1.0.0": {
         "runtime": {
           "ProjetoCadastroJogadoresTenisDeMesaPR2.dll": {}
+        },
+        "resources": {
+          "pt-BR/ProjetoCadastroJogadoresTenisDeMesaPR2.resources.dll": {
+            "locale": "pt-BR"
+          }
         }
       }
     }

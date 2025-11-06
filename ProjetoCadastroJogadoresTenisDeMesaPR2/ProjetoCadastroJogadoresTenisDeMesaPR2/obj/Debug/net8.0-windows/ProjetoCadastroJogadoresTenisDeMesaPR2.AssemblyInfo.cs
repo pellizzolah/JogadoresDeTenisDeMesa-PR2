@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoCadastroJogadoresTenisDeMesaPR2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e8bed3eddce6f20d6a44cae9889d67fa8263861")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoCadastroJogadoresTenisDeMesaPR2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoCadastroJogadoresTenisDeMesaPR2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

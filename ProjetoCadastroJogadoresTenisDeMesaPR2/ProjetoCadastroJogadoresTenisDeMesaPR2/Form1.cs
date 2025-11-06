@@ -18,7 +18,7 @@ namespace ProjetoCadastroJogadoresTenisDeMesaPR2
 
             if (String.IsNullOrEmpty(usuariobox.Text) || String.IsNullOrEmpty(senhabox.Text)) //Verifica se algum dos campos não estão vazios
             {
-                MessageBox.Show("ERRO! Um dos campos ou ambos não estao preenchidos! Note que ambos tem que estar com informações para efetuar o login!");
+                MessageBox.Show("POR FAVOR PREENCHA AMBOS OS CAMPOS DE USUARIO E SENHA \n Exemplo: \n Nome de Usuario: aluno \n Senha do usuario: 123456", "ERRO AO COMPLETAR O LOGIN", MessageBoxButtons.OK, MessageBoxIcon.Warning); //Eu que fiz, não uso chat!
             }
             else //Se tiver tudo deboa ele segue em frente
             {
