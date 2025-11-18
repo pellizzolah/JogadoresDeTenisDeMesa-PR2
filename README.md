@@ -13,7 +13,7 @@ Consiste em(FUNÇÕES DO PROGRAMA):
 
 
 CARACTERISTICAS DISPONÍVEIS DO JOGADOR PARA SELECIONAR(na hora de cadastrar):
--Foto do jogador(há 8 fotos de jogadores reais para escolher já embutido no programa)
+-Foto do jogador(você pode pegar uma imagem da internet e colocar)
 -Nome do jogador
 -Gênero(Masculino ou Feminino)
 -Idade(de 8 a 60 anos)
